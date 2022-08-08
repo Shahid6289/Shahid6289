@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahid6289&label=Profile%20views&color=0e75b6&style=flat" alt="shahid6289" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shahidparvez" target="blank"><img src="https://img.shields.io/twitter/follow/shahidparvez?logo=twitter&style=for-the-badge" alt="shahidparvez" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ShahidP65679351" target="blank"><img src="https://img.shields.io/twitter/follow/shahidparvez?logo=twitter&style=for-the-badge" alt="shahidparvez" /></a> </p>
 
 - 🔭 I’m currently working on **E-learning platform**
 
