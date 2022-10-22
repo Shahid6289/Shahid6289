@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect me:</h3>
 <p align="left">
-<a href="https://twitter.com/ShahidP44737200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shahid Parvez" height="30" width="40" /></a>
+<a href="https://twitter.com/ShahidP65679351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shahid Parvez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shahid parvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahid parvez" height="30" width="40" /></a>
 <a href="https://fb.com/shahid parvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahid parvez" height="30" width="40" /></a>
 </p>
