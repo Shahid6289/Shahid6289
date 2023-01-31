@@ -30,10 +30,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahid6289&show_icons=true&locale=en&layout=compact" alt="shahid6289" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Shahid6289&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shahid6289&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid6289&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahid6289&show_icons=true&locale=en" alt="shahid6289" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahid6289&" alt="shahid6289" /></p>
