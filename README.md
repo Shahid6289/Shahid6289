@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **App building projects**
 
-- 💬 Ask me about **Android, DSA, Flutter, C**
+- 💬 Ask me about **DSA, JAVA, Android, Flutter, C**
 
 - 📫 How to reach me **contact.shahidparvez@gmail.com**
 
