@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Shahid Parvez</h1>
-<h3 align="center">A passionate and self-motivated programmer who loves to dive deep into Technology and solve real-life problems with his strategies and skills.</h3>
+<h3 align="center">A passionate and self-motivated programmer who loves to dive deep into Technology and solve real-life problems with his skills and strategies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahid6289&label=Profile%20views&color=0e75b6&style=flat" alt="shahid6289" /> </p>
 
