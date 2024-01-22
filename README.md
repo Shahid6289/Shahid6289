@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **DSA, JAVA, Android, Flutter, C**
 
-- 📫 How to reach me **contact.shahidparvez@gmail.com**
+- 📫 How to reach me **devcraft.shahid@gmail.com**
 
 - ⚡ Fun fact **I am a self-taught programmer**
 
