@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ShahidP65679351" target="blank"><img src="https://img.shields.io/twitter/follow/shahidparvez?logo=twitter&style=for-the-badge" alt="shahidparvez" /></a> </p>
 
-- 🔭 I’m currently working on **E-learning platform**
+- 🔭 I’m currently working on **JAVA Spring Boot**
 
 - 🌱 I’m currently learning **JAVA and DevOps**
 
