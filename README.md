@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **devcraft.shahid@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11PnerZ5iXugHY49eKyMrj1MQdzAwDIKa/view?usp=sharing]([https://drive.google.com/file/d/11PnerZ5iXugHY49eKyMrj1MQdzAwDIKa/view?usp=sharing](https://drive.google.com/file/d/1eGbPdcjkO6GjQEAM_EH-bFKBHj2Nf7p1/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/11PnerZ5iXugHY49eKyMrj1MQdzAwDIKa/view?usp=sharing]((https://drive.google.com/file/d/1eGbPdcjkO6GjQEAM_EH-bFKBHj2Nf7p1/view?usp=sharing))
 
 - ⚡ Fun fact **I am a self-taught programmer**
 
