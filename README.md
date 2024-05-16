@@ -41,4 +41,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shahid6289&theme=onedark&hide_border=false)<br/>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Shahid6289?ext=heatmap)    [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=shahidgotzao)](https://www.geeksforgeeks.org/user/shahidgotzao/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Shahid6289?ext=heatmap)   
+
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=shahidgotzao)](https://www.geeksforgeeks.org/user/shahidgotzao/)
