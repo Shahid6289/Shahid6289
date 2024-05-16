@@ -41,4 +41,4 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shahid6289&theme=onedark&hide_border=false)<br/>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Shahid6289?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Shahid6289?ext=heatmap)
