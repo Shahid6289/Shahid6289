@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JAVA and DevOps**
 
-- 👯 I’m looking to collaborate on **App building projects**
+- 👯 I’m looking to collaborate on **Full Stack projects**
 
 - 💬 Ask me about **DSA, JAVA, Android, Flutter, DevOps**
 
